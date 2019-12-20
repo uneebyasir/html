@@ -1,0 +1,82 @@
+.aa{
+    height: 70vh;
+    background-image: url(bitmap-copy.png);
+}
+
+.h1{
+    color:green ;
+    text-align: center;
+}
+.p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 0px;
+}
+.bb{
+    
+    background-color:#4CAF50;
+    margin-bottom: 300px;
+    float: top; 
+    
+     
+    
+}
+.cc{
+    background-color: #4CAF50;
+    margin-bottom: 400px;
+    float:Right;
+    
+}
+.text-block{
+             text-align: center;
+             padding:  106px;
+             margin-top: 10px;
+             color:white;
+             text-size-adjust: 5px;
+              font-size: medium;
+              font-style: normal;
+}
+.p1{
+            text-align: center;
+            background-clip: white;
+            width: 100px;
+            margin: 0px;
+            padding: 0px;
+          
+}
+.p2{
+    text-align: center;
+    background-clip: white;
+    height: 200px;
+    width: 200px;
+  
+}
+.nav{
+    background-color: rgb(153, 135, 170);
+    padding: 0px;
+    height:60px ;
+    width:203vh ;
+    display: inline-block;
+    l
+    
+
+}
+.ul{
+    margin: 0;
+    padding:0;
+    list-style: 0;
+    
+
+}
+.nav li{
+    display: inline-block;
+    margin: 0 35pix;
+    margin-right: 100px;
+    
+}
+.logo{
+    height: 20pix;
+    size: 10px;
+}
+
+
+
